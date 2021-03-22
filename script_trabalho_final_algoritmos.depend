@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1591503657 source:c:\users\porto\desktop\script_trabalho_final_algoritmos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+
+1593121264 source:c:\users\alisson\desktop\script_trabalho_final_algoritmos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+
